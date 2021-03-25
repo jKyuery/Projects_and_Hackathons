@@ -1,4 +1,4 @@
-# Projects_and_Hackathons
+# Projects and Hackathons
 A list of all projects I have contributed to and Hackathons I have attended! 
 
 * Feb 2021 - Hack UTD, Currensee
@@ -9,7 +9,7 @@ A list of all projects I have contributed to and Hackathons I have attended!
 
 * Nov 2021 - Computational Methods for Data Scientists Project
   * For class, Python script with NLTK and Twitter API to perform entity list analysis
-   * Keys might be outdated, program might not run 
+    * Keys might be outdated, program might not run 
 
 * Jan 2020 - TAMUHack 2020, Pioneer
   * https://devpost.com/software/pioneer-dlpvfi
