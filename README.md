@@ -5,7 +5,7 @@ A list of all projects I have contributed to and Hackathons I have attended!
   * https://devpost.com/software/currensee
 
 * Nov 2021 - SparkTweetAnalyzer (Private Repo)
- * Repo owned by someone else
+  * Repo owned by someone else
 
 * Nov 2021 - Computational Methods for Data Scientists Project
   * For class, Python script with NLTK and Twitter API to perform entity list analysis
