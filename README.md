@@ -4,7 +4,7 @@ A list of all projects I have contributed to and Hackathons I have attended!
 * Feb 2021 - Hack UTD, Currensee
   * https://devpost.com/software/currensee
 
-* Nov 2021 - SparkTweetAnalyzer (Private Repo)
+* Nov 2021 - SparkTweetAnalyzer
   * Repo owned by someone else
 
 * Nov 2021 - Computational Methods for Data Scientists Project
