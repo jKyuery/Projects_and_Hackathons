@@ -5,11 +5,10 @@ A list of all projects I have contributed to and Hackathons I have attended!
   * https://devpost.com/software/currensee
 
 * Nov 2021 - SparkTweetAnalyzer
-  * Repo owned by someone else
+  * https://github.com/AbedMir31/SparkTweetAnalyzer
 
 * Nov 2021 - Computational Methods for Data Scientists Project
   * For class, Python script with NLTK and Twitter API to perform entity list analysis
-    * Keys might be outdated, program might not run 
 
 * Jan 2020 - TAMUHack 2020, Pioneer
   * https://devpost.com/software/pioneer-dlpvfi
