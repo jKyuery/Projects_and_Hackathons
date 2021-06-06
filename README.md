@@ -1,5 +1,7 @@
 # Projects and Hackathons
 A list of all projects I have contributed to and Hackathons I have attended! 
+* June 2021 - JP Morgan Data For Good Hackathon
+  * https://github.com/dfg2021/team-26
 
 * Feb 2021 - Hack UTD, Currensee
   * https://devpost.com/software/currensee
